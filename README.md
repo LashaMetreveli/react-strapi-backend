@@ -1,3 +1,3 @@
 yarn 
 
-yarn deploy
+yarn develop
